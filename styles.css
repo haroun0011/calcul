@@ -847,4 +847,12 @@ header h1 {
 html, body {
     overflow-x: hidden;
 }
+    .author-top {
+    text-align: center;
+    font-size: 0.85rem;
+    font-weight: 500;
+    opacity: 0.9;
+    margin-top: 6px;
+    }
 }
+
